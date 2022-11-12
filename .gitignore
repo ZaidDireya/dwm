@@ -1,2 +1,5 @@
 drw.o
 dwm.c
+dwm
+dwm.o
+util.o
